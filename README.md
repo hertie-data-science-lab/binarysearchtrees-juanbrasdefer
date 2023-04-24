@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/L0P4fZaj)
 
 # Documentation:
-This Modular Code makes use of a classical "Tree" template and a "Binary Tree" template to add the feature of BinarySearch, which turns the original Binary Tree into a sorted version of itself, where:
+This Code turns a regular ol Binary Tree into a sorted version of itself, a Binary Search Tree, where:
 1) The value of the left child of any node is lesser than the value of the node itself
 2) The value of the right child of any node is greater than the value of the node itself
 

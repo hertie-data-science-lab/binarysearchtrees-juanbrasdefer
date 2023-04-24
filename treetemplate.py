@@ -5,6 +5,7 @@ Created on Tue Mar 28 15:13:42 2023
 @author: Juan Brasdefer 225936, Fabian Pawelczyk 226921
 """
 
+
 from abc import ABC, abstractmethod
 
 class Tree(ABC):
